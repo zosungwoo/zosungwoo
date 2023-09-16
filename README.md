@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" style="width:42%" src="https://github-readme-stats.vercel.app/api?username=zosungwoo&rank_icon=github"/>
+  <img align="right" style="width:48%" src="https://github-readme-stats.vercel.app/api?username=zosungwoo&rank_icon=github"/>
 
   ## 👋 SUNGWOO 👋 
 
@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" style="width:40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
+  <img align="right" style="width:46%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
   
   ## 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -35,7 +35,7 @@
   <br>
   <img src="https://img.shields.io/badge/-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/> 
   <br>
 </div>
