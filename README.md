@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle" height="22"/>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="22"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" height="22"/>
   <br>
