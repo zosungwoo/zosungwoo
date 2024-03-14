@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" style="width:38%" src="https://github-readme-stats.vercel.app/api?username=zosungwoo&rank_icon=github"/>
+  <img align="right" style="width:42%" src="https://github-readme-stats.vercel.app/api?username=zosungwoo&rank_icon=github"/>
 
   ### 👋 SUNG WOO 👋 
   <a href="https://velog.io/@zosungwoo"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&" height="24"/></a> &nbsp;
@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  <img align="right" style="width:36%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
+  <img align="right" style="width:40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
   
   ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white" height="22">
