@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img align="right" style="width:44%" src="https://github-readme-stats.vercel.app/api?username=zosungwoo&rank_icon=github"/>
+  <img align="right" style="width:38%" src="https://github-readme-stats.vercel.app/api?username=zosungwoo&rank_icon=github"/>
 
-  ## 👋 SUNG WOO 👋 
+  ### 👋 SUNG WOO 👋 
   <a href="https://velog.io/@zosungwoo"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&" height="24"/></a> &nbsp;
   <a href="https://zosungwoo.notion.site/Sungwoo-Cho-7634d679e9ca423984ed5cb161a13bb7?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" height="24"/></a>
 
@@ -16,9 +16,9 @@
 
 <div align="center">
   
-  <img align="right" style="width:42%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
+  <img align="right" style="width:36%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=seouk812"/>
   
-  ## 🛠 SKILL 🛠
+  ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white" height="22">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="22"/> 
   <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" height="22"/>
