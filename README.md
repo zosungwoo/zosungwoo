@@ -4,7 +4,7 @@
 
   ### 👋 SUNG WOO 👋 
   <a href="https://velog.io/@zosungwoo"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&" height="24"/></a> &nbsp;
-  <a href="https://zosungwoo.site"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" height="24"/></a>
+  <a href="https://zosungwoo.notion.site/Sungwoo-Cho-1-6f22d54cd9054b1eaeb8a66712087b7d?pvs=4"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" height="24"/></a>
 
   🎓 I'm studying Data Science at Sejong University.
   
